@@ -1,5 +1,11 @@
 # ShowInMenu for Cockpit CMS
 
+**This addon is not compatible with Cockpit CMS v2.**
+
+See also [Cockpit CMS v1 docs](https://v1.getcockpit.com/documentation), [Cockpit CMS v1 repo](https://github.com/agentejo/cockpit) and [Cockpit CMS v2 docs](https://getcockpit.com/documentation/), [Cockpit CMS v2 repo](https://github.com/Cockpit-HQ/Cockpit).
+
+---
+
 With the version 0.9.3 (Sept. 2019) of [Cockpit CMS][1], the feature to display Collections, Singletons and Forms in the system menu was dropped.
 
 This addon re-enables that function.
